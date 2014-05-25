@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IgcVal", "IgcVal\IgcVal.csproj", "{77DE7884-943C-4EE3-B9CC-5F6A8B88FBB0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGCCore", "IGCCore\IGCCore.csproj", "{C139B5AE-4170-4EC8-BDD6-289B275C7104}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{77DE7884-943C-4EE3-B9CC-5F6A8B88FBB0}.Debug.ActiveCfg = Debug|.NET
+		{77DE7884-943C-4EE3-B9CC-5F6A8B88FBB0}.Debug.Build.0 = Debug|.NET
+		{77DE7884-943C-4EE3-B9CC-5F6A8B88FBB0}.Release.ActiveCfg = Release|.NET
+		{77DE7884-943C-4EE3-B9CC-5F6A8B88FBB0}.Release.Build.0 = Release|.NET
+		{C139B5AE-4170-4EC8-BDD6-289B275C7104}.Debug.ActiveCfg = Debug|.NET
+		{C139B5AE-4170-4EC8-BDD6-289B275C7104}.Debug.Build.0 = Debug|.NET
+		{C139B5AE-4170-4EC8-BDD6-289B275C7104}.Release.ActiveCfg = Release|.NET
+		{C139B5AE-4170-4EC8-BDD6-289B275C7104}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

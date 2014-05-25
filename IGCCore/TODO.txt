@@ -1,0 +1,11 @@
+Fill in:
+	Drone
+
+Make error messages more efficient. Stop being lazy and cut'n'pasting
+
+Update setters to ensure data integrity
+Add sorting to ModuleList to sort by IGCCore specifications (pres/defs, uid/override order)
+
+Add "Save" method to all modules
+
+Finish filling in COMMENTS for all properties across all modules.
